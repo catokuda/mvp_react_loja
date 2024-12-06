@@ -7,11 +7,11 @@
 
 * Protótipo de alta fidelidade no Figma: 
 ```
-https://www.figma.com/file/HR5Kgj15UXJgEN9A53SaXn/PUC-Hotel?type=design&node-id=0%3A1&mode=design&t=HMOLD4r2hD0GAola-1
+https://www.figma.com/
 ```
 * Visualização do protótipo do Figma:
 ```
-https://www.figma.com/proto/HR5Kgj15UXJgEN9A53SaXn/PUC-Hotel?type=design&node-id=1-2&t=HMOLD4r2hD0GAola-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
+https://www.figma.com/
 ```
 ## Objetivos
 * Desenvolver uma interface agradável e intuitiva para o usuário;
@@ -21,7 +21,7 @@ https://www.figma.com/proto/HR5Kgj15UXJgEN9A53SaXn/PUC-Hotel?type=design&node-id
 
 ## Rotas
 * / - Home: Apresentação da lojinha e botão para a rota de simular compras.
-* /reservas - Página de simulação de reserva: Escolha das datas, quarto e apresentação dos quartos e dos preços. Botão para a rota de pagamento.
+* /Loja - Página de simulação de um e-commerce.
 * /pagamento - Página de pagamento: Revisão dos dados escolhidos e solicitação de dados do cliente e do cartão para pagamento. Conclusão da reserva.
 
 ## Como utilizar
