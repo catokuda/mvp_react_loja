@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Caminha para Gatos",
+      "category": "Acessórios",
+      "description": "lorem",
+      "price": 79.99,
+      "image": "https://lojamundoluna.com.br/cdn/shop/files/mundoluna_10_700x.jpg?v=1700772930"
+    },
+    {
+      "id": 2,
+      "name": "Arranhador",
+      "category": "Brinquedos",
+      "description": "lorem",
+      "price": 129.99,
+      "image": "https://82975.cdn.lojaquevende.com.br/static/82975/sku/4dc0ff75c15b0ac21564b4ddddff7821.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fonte de Água",
+      "category": "Cuidados",
+      "description": "lorem",
+      "price": 189.99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_869582-MLA79581627184_102024-O.webp"
+    }
+  ]
+  
